@@ -1,0 +1,23 @@
+{
+  "title": "Ebola in West Africa, 2014-2015",
+  "color_options": {
+    "num_date": {"menuItem": "date", "legendTitle": "Sampling date", "type": "continuous"},
+    "country": {"legendTitle":"Country", "type":"discrete"}
+  },
+  "geo": [
+    "country",
+    "state"
+  ],
+  "maintainer": [
+    "Laura Kasper",
+    "https://github.com/laurakasper/EbolaGenomics.git"
+  ],
+  "filters": [
+    "country"
+  ],
+  "defaults": {
+   "colorBy": "country",
+   "mapTriplicate": false,
+   "geoResolution": "state"
+ }
+}
