@@ -1,0 +1,521 @@
+{
+  "generated_by": {
+    "program": "augur",
+    "version": "6.2.0"
+  },
+  "models": {
+    "country": {
+      "alphabet": [
+        "DRC",
+        "Guinea",
+        "Liberia",
+        "Sierra-Leone",
+        "?"
+      ],
+      "equilibrium_probabilities": [
+        0.2512053437832919,
+        0.24173430297175638,
+        0.22159644127840902,
+        0.28546391196654275
+      ],
+      "rate": 78.06335992953659,
+      "transition_matrix": [
+        [
+          -2.9810988460418204,
+          1.0649242525052374,
+          0.8505936514470979,
+          1.0612574820864236
+        ],
+        [
+          1.0649242525052374,
+          -5.297054341133485,
+          2.1247613007899275,
+          1.8991035660090139
+        ],
+        [
+          0.8505936514470979,
+          2.1247613007899275,
+          -4.646765780363486,
+          1.0593472065877498
+        ],
+        [
+          1.0612574820864236,
+          1.8991035660090139,
+          1.0593472065877498,
+          -3.364416860514088
+        ]
+      ]
+    }
+  },
+  "nodes": {
+    "KM519951": {
+      "country": "DRC",
+      "country_confidence": {
+        "DRC": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KR006960": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KR105211": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KR105333": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KR534575": {
+      "country": "Guinea",
+      "country_confidence": {
+        "Guinea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KR817131": {
+      "country": "Guinea",
+      "country_confidence": {
+        "Guinea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KR817142": {
+      "country": "Guinea",
+      "country_confidence": {
+        "Guinea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KR817184": {
+      "country": "Guinea",
+      "country_confidence": {
+        "Guinea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KR819004": {
+      "country": "DRC",
+      "country_confidence": {
+        "DRC": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KT013256": {
+      "country": "Guinea",
+      "country_confidence": {
+        "Guinea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KT587344": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KT587346": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KT725347": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KT725381": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KU220274": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296361": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296384": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296398": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296417": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296440": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296520": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KU296553": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296562": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KU296578": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KU296607": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296612": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296640": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KU296645": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KU296685": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KU296728": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296744": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296776": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KU296804": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999999999999999
+      },
+      "country_entropy": -9.99866855976916e-13
+    },
+    "KU296844": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KX000399": {
+      "country": "Guinea",
+      "country_confidence": {
+        "Guinea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KX009902": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KX009904": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "KX009912": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "LT630584": {
+      "country": "Guinea",
+      "country_confidence": {
+        "Guinea": 1.0
+      },
+      "country_entropy": -1.000088900581841e-12
+    },
+    "NODE_0000000": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999073297005857
+      },
+      "country_entropy": 0.0010246229628197421
+    },
+    "NODE_0000001": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.999903799891435
+      },
+      "country_entropy": 0.001059588316239638
+    },
+    "NODE_0000002": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999073297005857
+      },
+      "country_entropy": 0.0010246229628197421
+    },
+    "NODE_0000003": {
+      "country": "DRC",
+      "country_confidence": {
+        "DRC": 0.37684177451312617,
+        "Guinea": 0.22068720293189806,
+        "Liberia": 0.12992892642807782,
+        "Sierra-Leone": 0.27254209612689806
+      },
+      "country_entropy": 1.3206806630567502
+    },
+    "NODE_0000004": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999965036070134
+      },
+      "country_entropy": 4.94743230551341e-05
+    },
+    "NODE_0000005": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999966471074437
+      },
+      "country_entropy": 4.760225881546197e-05
+    },
+    "NODE_0000006": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Guinea": 0.040700898525808854,
+        "Liberia": 0.958808271492705
+      },
+      "country_entropy": 0.17460974536915716
+    },
+    "NODE_0000008": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Guinea": 0.04142304062897842,
+        "Sierra-Leone": 0.9577644566331143
+      },
+      "country_entropy": 0.179533608024246
+    },
+    "NODE_0000010": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Guinea": 0.0015846240776962602,
+        "Liberia": 0.9983694941652846
+      },
+      "country_entropy": 0.012329974691180759
+    },
+    "NODE_0000011": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999043951028006
+      },
+      "country_entropy": 0.0010529428023409065
+    },
+    "NODE_0000012": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 0.999874711760799
+      },
+      "country_entropy": 0.0013060435058763321
+    },
+    "NODE_0000013": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.99999972501282
+      },
+      "country_entropy": 4.503937760986817e-06
+    },
+    "NODE_0000014": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 0.9998704236089778
+      },
+      "country_entropy": 0.001345844962684149
+    },
+    "NODE_0000015": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999964271654961
+      },
+      "country_entropy": 5.045620927997037e-05
+    },
+    "NODE_0000017": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999107245670836
+      },
+      "country_entropy": 0.0009908450387964391
+    },
+    "NODE_0000018": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9999459226280201
+      },
+      "country_entropy": 0.0006050962704961618
+    },
+    "NODE_0000020": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Guinea": 0.0017826527410185697,
+        "Sierra-Leone": 0.9981394161761381
+      },
+      "country_entropy": 0.013932596934865373
+    },
+    "NODE_0000022": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "Sierra-Leone": 0.9998303426245158
+      },
+      "country_entropy": 0.00173879076412833
+    },
+    "NODE_0000024": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 0.999927433492448
+      },
+      "country_entropy": 0.0008077161633050431
+    },
+    "NODE_0000027": {
+      "country": "Guinea",
+      "country_confidence": {
+        "Guinea": 0.6161457314944441,
+        "Liberia": 0.3777134708284337,
+        "Sierra-Leone": 0.0061129909725172555
+      },
+      "country_entropy": 0.6975828254322861
+    },
+    "NODE_0000028": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Guinea": 0.02031943517968108,
+        "Liberia": 0.9796532012654887
+      },
+      "country_entropy": 0.09960607231054894
+    },
+    "NODE_0000029": {
+      "country": "Liberia",
+      "country_confidence": {
+        "Liberia": 0.999211399966813
+      },
+      "country_entropy": 0.006547197630279504
+    },
+    "NODE_0000031": {
+      "country": "Guinea",
+      "country_confidence": {
+        "Guinea": 0.9597296700872616,
+        "Liberia": 0.03930152847949132
+      },
+      "country_entropy": 0.17384229006755125
+    },
+    "NODE_0000034": {
+      "country": "Guinea",
+      "country_confidence": {
+        "Guinea": 0.9993650455993575
+      },
+      "country_entropy": 0.005743605755989371
+    },
+    "NODE_0000035": {
+      "country": "Sierra-Leone",
+      "country_confidence": {
+        "DRC": 0.009038945970550032,
+        "Guinea": 0.48242369065712115,
+        "Liberia": 0.010314555980289745,
+        "Sierra-Leone": 0.49822280739203917
+      },
+      "country_entropy": 0.78849011941545
+    },
+    "NODE_0000037": {
+      "country": "DRC",
+      "country_confidence": {
+        "DRC": 0.9986215144768599
+      },
+      "country_entropy": 0.011910290100908091
+    }
+  }
+}

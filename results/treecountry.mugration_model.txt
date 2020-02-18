@@ -1,0 +1,29 @@
+Map from character to field name
+A:	DRC
+B:	Guinea
+C:	Liberia
+D:	Sierra-Leone
+E:	?
+
+
+Substitution rate (mu): 78.06336
+
+Equilibrium frequencies (pi_i):
+  A: 0.2512
+  B: 0.2417
+  C: 0.2216
+  D: 0.2855
+
+Symmetrized rates from j->i (W_ij):
+	A	B	C	D
+  A	0	1.0649	0.8506	1.0613
+  B	1.0649	0	2.1248	1.8991
+  C	0.8506	2.1248	0	1.0593
+  D	1.0613	1.8991	1.0593	0
+
+Actual rates from j->i (Q_ij):
+	A	B	C	D
+  A	0	0.2675	0.2137	0.2666
+  B	0.2574	0	0.5136	0.4591
+  C	0.1885	0.4708	0	0.2347
+  D	0.303	0.5421	0.3024	0

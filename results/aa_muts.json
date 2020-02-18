@@ -1,0 +1,908 @@
+{
+  "annotations": {
+    "ZEBOVgp1": {
+      "end": 2689,
+      "seqid": "config/reference.gb",
+      "start": 470,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ZEBOVgp2": {
+      "end": 4151,
+      "seqid": "config/reference.gb",
+      "start": 3129,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ZEBOVgp3": {
+      "end": 5459,
+      "seqid": "config/reference.gb",
+      "start": 4479,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ZEBOVgp4": {
+      "end": 6933,
+      "seqid": "config/reference.gb",
+      "start": 6039,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ZEBOVgp5": {
+      "end": 9375,
+      "seqid": "config/reference.gb",
+      "start": 8509,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ZEBOVgp6": {
+      "end": 11100,
+      "seqid": "config/reference.gb",
+      "start": 10345,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "ZEBOVgp7": {
+      "end": 18219,
+      "seqid": "config/reference.gb",
+      "start": 11581,
+      "strand": "+",
+      "type": "CDS"
+    },
+    "nuc": {
+      "end": 18959,
+      "seqid": "config/reference.gb",
+      "start": 1,
+      "strand": "+",
+      "type": "source"
+    }
+  },
+  "generated_by": {
+    "program": "augur",
+    "version": "6.2.0"
+  },
+  "nodes": {
+    "KM519951": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KR006960": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KR105211": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KR105333": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "F934S"
+        ]
+      }
+    },
+    "KR534575": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KR817131": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "E1245Q"
+        ]
+      }
+    },
+    "KR817142": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KR817184": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "S1154L"
+        ]
+      }
+    },
+    "KR819004": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KT013256": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KT587344": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [
+          "V327I"
+        ],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "G1686S"
+        ]
+      }
+    },
+    "KT587346": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KT725347": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "V18I"
+        ]
+      }
+    },
+    "KT725381": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU220274": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296361": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [
+          "P202L"
+        ],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "L1731P"
+        ]
+      }
+    },
+    "KU296384": {
+      "aa_muts": {
+        "ZEBOVgp1": [
+          "E633K",
+          "F648L"
+        ],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296398": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296417": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296440": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296520": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296553": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296562": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296578": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296607": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296612": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296640": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296645": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296685": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296728": {
+      "aa_muts": {
+        "ZEBOVgp1": [
+          "Y469H"
+        ],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296744": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [
+          "L330F"
+        ],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [
+          "N107D"
+        ],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "D1734N"
+        ]
+      }
+    },
+    "KU296776": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296804": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KU296844": {
+      "aa_muts": {
+        "ZEBOVgp1": [
+          "L562A"
+        ],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KX000399": {
+      "aa_muts": {
+        "ZEBOVgp1": [
+          "E552G"
+        ],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [
+          "W291R"
+        ],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [
+          "K163E"
+        ],
+        "ZEBOVgp7": []
+      }
+    },
+    "KX009902": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "KX009904": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [
+          "L249F"
+        ],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "P39S",
+          "V676I"
+        ]
+      }
+    },
+    "KX009912": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "LT630584": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000000": {
+      "aa_muts": {
+        "ZEBOVgp1": [
+          "P497S"
+        ],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000001": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "T1772A"
+        ]
+      }
+    },
+    "NODE_0000002": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000003": {
+      "aa_muts": {},
+      "aa_sequences": {
+        "ZEBOVgp1": "KKKKKKKKKKKKKKKKKKMDYHKILTAGLSVQQGIVRQRVIPVYQVNNLEEICQLIIQAFEAGVDFQESADSFLLMLCLHHAYQGDYKLFLESGAVKYLEGHGFRFEVKKRDGVKRLEELLPAVSSGRNIKRTLAAMPEEETTEANAGQFLSFASLFLPKLVVGEKACLEKVQRQIQVHAEQGLIQYPTAWQSVGHMMVIFRLMRTNFLIKFLLIHQGMHMVAGHDANDAVISNSVAQARFSGLLIVKTVLDHILQKTERGVRLHPLARTAKVKNEVNSFKAALSSLAKHGEYAPFARLLNLSGVNNLEHGLFPQLSAIALGVATAHGSTLAGVNVGEQYQQLREAATEAEKQLQQYAESRELDHLGLDDQEKKILMNFHQKKNEISFQQTNAMVTLRKERLAKLTEAITAASLPKTSGHYDDDDDIPFPGPINDDDNPGHQDDDPTDSQDTTIPDVVVDPDDGGYGEYQSYSENGMSAPDDLVLFDLDEDDEDTKPVPNRSTKGGQQKNSQKGQHTEGRQTQSTPTQNVTGPRRTIHHASAPLTDNDRRNEPSGSTSPRMLTPINEEADPLDDADDETSSLPPLESDDEEQDRDGTSNRTPTVAPPAPVYRDHSEKKELPQDEQQDQDHIQEARNQDSDNTQPEHSFEEMYRHILRSQGPFDAVLYYHMMKDEPVVFSTSDGKEYTYPDSLEEEYPPWLTEKEAMNDENRFVTLDGQQFYWPVMNHRNKFMAILQHHQ*",
+        "ZEBOVgp2": "MTTRTKGRGHTVATTQNDRMPGPELSGWISEQLMTGRIPVNDIFCDIENNPGLCYASQMQQTKPNPKMRNSQTQTDPICNHSFEEVVQTLASLATVVQQQTIASESLEQRITSLENGLKPVYDMAKTISSLNRVCAEMVAKYDLLVMTTGRATATAAATEAYWAEHGQPPPGPSLYEESAIRGKIESRDETVPQSVREAFNNLDSTTSLTEENFGKPDISAKDLRNIMYDHLPGFGTAFHQLVQVICKLGKDSNSLDIIHAEFQASLAEGDSPQCALIQITKRVPIFQDAAPPVIHIRSRGDIPRACQKSLRPVPPSPKIDRGWVCVFQLQDGKTLGLKI*",
+        "ZEBOVgp3": "MRRVILPTAPPEYMEAIYPARSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKVLMKQIPIWLPLGVADQKTYSFDSTTAAIMLASYTITHFGKATNPLVRVNRLGPGIPDHPLRLLRIGNQAFLQEFVLPPVQLPQYFTFDLTALKLITQPLPAATWTDDTPTGSNGALRPGISFHPKLRPILLPNKSGKKGNSADLTSPEKIQAIMTSLQDFKIVPIDPTKNIMGIEVPETLVHKLTGKKVTSKNGQPIIPVLLPKYIGLDPVAPGDLTMVITQDCDTCHSPASLPAVVEK*",
+        "ZEBOVgp4": "MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNLEGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHKVSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPSSGYYSTTIRYQATGFGTNETEYLFEVDNLTYVQLESRFTPQFLLQLNETIYASGKRSNTTGKLIWKVNPEIDTTIGEWAFWETKKPH*",
+        "ZEBOVgp5": "MEASYERGRPRAARQHSRDGHDHHVRARSSSRENYRGEYRQSRSASQVRVPTVFHKKRVEPLTVPPAPKDICPTLKKGFLCDSSFCKKDHQLESLTDRELLLLIARKTCGSVEQQLNITAPKDSRLANPTADDFQQEEGPKITLLTLIKTAEHWARQDIRTIEDSKLRALLTLCAVMTRKFSKSQLSLLCETHLRREGLGQDQAEPVLEVYQRLHSDKGGSFEAALWQQWDRQSLIMFITAFLNIALQLPCESSAVVVSGLRTLVPQSDNEEASTNPGTCSWSDEGTP*",
+        "ZEBOVgp6": "MAKATGRYNLISPKKDLEKGVVLSDLCNFLVSQTIQGWKVYWAGIEFDVTHKGMALLHRLKTNDFAPAWSMTRNLFPHLFQNPNSTIESPLWALRVILAAGIQDQLIDQSLIEPLAGALGLISDWLLTTNTNHFNMRTQRVKEQLSLKMLSLIRSNILKFINKLDALHVVNYNGLLSSIEIGTQNHTIIITRTNMGFLVELQEPDKSAMNRKKPGPAKFSLLHESTLKAFTQGSSTRMQSLILEFNSSLAI*",
+        "ZEBOVgp7": "MATQHTQYPDARLSSPIVLDQCDLVTRACGLYSSYSLNPQLRNCKLPKHIYRLKYDVTVTKFLSDVPVATLPIDFIVPILLKALSGNGFCPVEPRCQQFLDEIIKYTMQDALFLKYYLKNVGAQEDCVDDHFQEKILSSIQGNEFLHQMFFWYDLAILTRRGRLNRGNSRSTWFVHDDLIDILGYGDYVFWKIPISLLPLNTQGIPHAAMDWYQTSVFKEAVQGHTHIVSVSTADVLIMCKDLITCRFNTTLISKIAEVEDPVCSDYPNFKIVSMLYQSGDYLLSILGSDGYKIIKFLEPLCLAKIQLCSKYTERKGRFLTQMHLAVNHTLEEITEIRALKPSQAHKIREFHRTLIRLEMTPQQLCELFSIQKHWGHPVLHSETAIQKVKKHATVLKALRPIVIFETYCVFKYSIAKHYFDSQGSWYSVTSDRNLTPGLNSYIKRNQFPPLPMIKELLWEFYHLDHPPLFSTKIISDLSIFIKDRATAVERTCWDAVFEPNVLGYNPPHKFSTKRVPEQFLEQENFSIENVLSYAQKLEYLLPQYRNFSFSLKEKELNVGRTFGKLPYPTRNVQTLCEALLADGLAKAFPSNMMVVTEREQKESLLHQASWHHTSDDFGEHATVRGSSFVTDLEKYNLAFRYEFTAPFIEYCNRCYGVKNVFNWMHYTIPQCYMHVSDYYNPPHNLTLENRNNPPEGPSSYRGHMGGIEGLQQKLWTSISCAQISLVEIKTGFKLRSAVMGDNQCITVLSVFPLETDADEQEQSAEDNAARVAASLAKVTSACGIFLKPDETFVHSGFIYFGKKQYLNGVQLPQSLKTATRMAPLSDAIFDDLQGTLASIGTAFERSISETRHIFPCRITAAFHTFFSVRILQYHHLGFNKGFDLGQLTLGKPLDFGTISLALAVPQVLGGLSFLNPEKCFYRNLGDPVTSGLFQLKTYLRMIEMDDLFLPLIAKNPGNCTAIDFVLNPSGLNVPGSQDLTSFLRQIVRRTITLSAKNKLINTLFHASADFEDEMVCKWLLSSTPVMSRFAADIFSRTPSGKRLQILGYLEGTRTLLASKIINNNTETPVLDRLRKITLQRWSLWFSYLDHCDNILAEALTQITCTVDLAQILREYSWAHILEGRPLIGATLPCMIEQFKVVWLKPYEQCPQCSNAKQPGGKPFVSVAVKKHIVSAWPNASRISWTIGDGIPYIGSRTEDKIGQPAIKPKCPSAALREAIELASRLTWVTQGSSNSDLLIKPFLEARVNLSVQEILQMTPSHYSGNIVHRYNDQYSPHSFMANRMSNSATRLIVSTNTLGEFSGGGQSARDSNIIFQNVINYAVALFDIKFRNTEATDIQYNRAHLHLTKCCTREVPAQYLTYTSTLDLDLTRYRENELIYDNNPLKGGLNCNISFDNPFFQGKQLNIIEDDLIRLPHLSGWELAKTIMQSIISDSNNSSTDPISSGETRSFTTHFLTYPKIGLLYSFGAFVSYYLGNTILRTKKLTLDNFLYYLTTQIHNLPHRSLRILKPTFKHASVMSRLMSIDPHFSIYIGGAAGDRGLSDAARLFLRTSISSFLTFVKEWIINRGTIVPLWIVYPLEGQNPTPVNNFLHQIVELLVHDSSRHQAFKTTINDHVHPHDNLVYTCKSTASNFFHASLAYWRSRHRNSNRKDLTRNSSTGSSTNNSDGHIKRSQEQTTRDPHDGTERSLVLQMSHEIKRTTIPQENTHQGPSFQSFLSDSACGTANPKLNFDRSRHNVKSQDHNSASKREGHQIISHRLVLPFFTLSQGTRQLTSSNESQTQDEISKYLRQLRSVIDTTVYCRFTGIVSSMHYKLDEVLWEIENFKSAVTLAEGEGAGALLLIQKYQVKTLFFNTLATESSIESEIVSGMTTPRMLLPVMSKFHNDQIEIILNNSASQITDITNPTWFKDQRARLPRQVEVITMDAETTENINRSKLYEAVHKLILHHVDPSVLKAVVLKVFLSDTEGMLWLNDNLAPFFATGYLIKPITSSARSSEWYLCLTNFLSTTRKMPHQNHLSCKQVILTALQLQIQRSPYWLSHLTQYADCDLHLSYIRLGFPSLEKVLYHRYNLVDSKRGPLVSVTQHLAHLRAEIRELTNDYNQQRQSRTQTYHFIRTAKGRITKLVNDYLKFFLIVQALKHNGTWQAEFKKLPELISVCNRFYHIRDCNCEERFLVQTLYLHRMQDSEVKLIERLTGLLSLFPDGLYRFD*"
+      }
+    },
+    "NODE_0000004": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000005": {
+      "aa_muts": {
+        "ZEBOVgp1": [
+          "M671V"
+        ],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [
+          "R29K"
+        ],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "I256L"
+        ]
+      }
+    },
+    "NODE_0000006": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000008": {
+      "aa_muts": {
+        "ZEBOVgp1": [
+          "N378S",
+          "R635K"
+        ],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000010": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000011": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000012": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000013": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000014": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000015": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "F1610S"
+        ]
+      }
+    },
+    "NODE_0000017": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "Q1770R"
+        ]
+      }
+    },
+    "NODE_0000018": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000020": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000022": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000024": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [
+          "W282*"
+        ],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000027": {
+      "aa_muts": {
+        "ZEBOVgp1": [
+          "R111C"
+        ],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [
+          "A82V"
+        ],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "D759G"
+        ]
+      }
+    },
+    "NODE_0000028": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "S1645N"
+        ]
+      }
+    },
+    "NODE_0000029": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000031": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000034": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000035": {
+      "aa_muts": {
+        "ZEBOVgp1": [],
+        "ZEBOVgp2": [],
+        "ZEBOVgp3": [],
+        "ZEBOVgp4": [],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": []
+      }
+    },
+    "NODE_0000037": {
+      "aa_muts": {
+        "ZEBOVgp1": [
+          "R128K",
+          "G465S",
+          "S478N",
+          "T525R",
+          "T531P",
+          "R534H",
+          "T536A",
+          "A540T",
+          "G555S",
+          "I631T",
+          "D708E",
+          "R728K"
+        ],
+        "ZEBOVgp2": [
+          "V12A",
+          "V40I",
+          "N41S",
+          "M68T"
+        ],
+        "ZEBOVgp3": [
+          "A20V",
+          "D312G",
+          "V324I"
+        ],
+        "ZEBOVgp4": [
+          "R16K",
+          "A262T"
+        ],
+        "ZEBOVgp5": [],
+        "ZEBOVgp6": [],
+        "ZEBOVgp7": [
+          "G122D",
+          "L197M",
+          "T215A",
+          "V259I",
+          "I337M",
+          "H346Q",
+          "N692D",
+          "V1142F",
+          "I1183L",
+          "H1594Y",
+          "H1607Q",
+          "F1610L",
+          "N1615S",
+          "D1654Y",
+          "T1656A",
+          "N1658D",
+          "K1673E",
+          "S1690N",
+          "N1826S",
+          "D1888N",
+          "R1919K",
+          "H1944Y",
+          "V1951I",
+          "V2085I"
+        ]
+      }
+    }
+  },
+  "reference": {
+    "ZEBOVgp1": "KKKKKKKKKKKKKKKKKKMDYHKILTAGLSVQQGIVRQRVIPVYQVNNLEEICQLIIQAFEAGVDFQESADSFLLMLCLHHAYQGDYKLFLESGAVKYLEGHGFRFEVKKRDGVKRLEELLPAVSSGRNIKRTLAAMPEEETTEANAGQFLSFASLFLPKLVVGEKACLEKVQRQIQVHAEQGLIQYPTAWQSVGHMMVIFRLMRTNFLIKFLLIHQGMHMVAGHDANDAVISNSVAQARFSGLLIVKTVLDHILQKTERGVRLHPLARTAKVKNEVNSFKAALSSLAKHGEYAPFARLLNLSGVNNLEHGLFPQLSAIALGVATAHGSTLAGVNVGEQYQQLREAATEAEKQLQQYAESRELDHLGLDDQEKKILMNFHQKKNEISFQQTNAMVTLRKERLAKLTEAITAASLPKTSGHYDDDDDIPFPGPINDDDNPGHQDDDPTDSQDTTIPDVVVDPDDGGYGEYQSYSENGMSAPDDLVLFDLDEDDEDTKPVPNRSTKGGQQKNSQKGQHTEGRQTQSTPTQNVTGPRRTIHHASAPLTDNDRRNEPSGSTSPRMLTPINEEADPLDDADDETSSLPPLESDDEEQDRDGTSNRTPTVAPPAPVYRDHSEKKELPQDEQQDQDHIQEARNQDSDNTQPEHSFEEMYRHILRSQGPFDAVLYYHMMKDEPVVFSTSDGKEYTYPDSLEEEYPPWLTEKEAMNDENRFVTLDGQQFYWPVMNHRNKFMAILQHHQ*",
+    "ZEBOVgp2": "MTTRTKGRGHTVATTQNDRMPGPELSGWISEQLMTGRIPVNDIFCDIENNPGLCYASQMQQTKPNPKMRNSQTQTDPICNHSFEEVVQTLASLATVVQQQTIASESLEQRITSLENGLKPVYDMAKTISSLNRVCAEMVAKYDLLVMTTGRATATAAATEAYWAEHGQPPPGPSLYEESAIRGKIESRDETVPQSVREAFNNLDSTTSLTEENFGKPDISAKDLRNIMYDHLPGFGTAFHQLVQVICKLGKDSNSLDIIHAEFQASLAEGDSPQCALIQITKRVPIFQDAAPPVIHIRSRGDIPRACQKSLRPVPPSPKIDRGWVCVFQLQDGKTLGLKI*",
+    "ZEBOVgp3": "MRRVILPTAPPEYMEAIYPARSNSTIARGGNSNTGFLTPESVNGDTPSNPLRPIADDTIDHASHTPGSVSSAFILEAMVNVISGPKVLMKQIPIWLPLGVADQKTYSFDSTTAAIMLASYTITHFGKATNPLVRVNRLGPGIPDHPLRLLRIGNQAFLQEFVLPPVQLPQYFTFDLTALKLITQPLPAATWTDDTPTGSNGALRPGISFHPKLRPILLPNKSGKKGNSADLTSPEKIQAIMTSLQDFKIVPIDPTKNIMGIEVPETLVHKLTGKKVTSKNGQPIIPVLLPKYIGLDPVAPGDLTMVITQDCDTCHSPASLPAVVEK*",
+    "ZEBOVgp4": "MGVTGILQLPRDRFKRTSFFLWVIILFQRTFSIPLGVIHNSTLQVSDVDKLVCRDKLSSTNQLRSVGLNLEGNGVATDVPSATKRWGFRSGVPPKVVNYEAGEWAENCYNLEIKKPDGSECLPAAPDGIRGFPRCRYVHKVSGTGPCAGDFAFHKEGAFFLYDRLASTVIYRGTTFAEGVVAFLILPQAKKDFFSSHPLREPVNATEDPSSGYYSTTIRYQATGFGTNETEYLFEVDNLTYVQLESRFTPQFLLQLNETIYASGKRSNTTGKLIWKVNPEIDTTIGEWAFWETKKPH*",
+    "ZEBOVgp5": "MEASYERGRPRAARQHSRDGHDHHVRARSSSRENYRGEYRQSRSASQVRVPTVFHKKRVEPLTVPPAPKDICPTLKKGFLCDSSFCKKDHQLESLTDRELLLLIARKTCGSVEQQLNITAPKDSRLANPTADDFQQEEGPKITLLTLIKTAEHWARQDIRTIEDSKLRALLTLCAVMTRKFSKSQLSLLCETHLRREGLGQDQAEPVLEVYQRLHSDKGGSFEAALWQQWDRQSLIMFITAFLNIALQLPCESSAVVVSGLRTLVPQSDNEEASTNPGTCSWSDEGTP*",
+    "ZEBOVgp6": "MAKATGRYNLISPKKDLEKGVVLSDLCNFLVSQTIQGWKVYWAGIEFDVTHKGMALLHRLKTNDFAPAWSMTRNLFPHLFQNPNSTIESPLWALRVILAAGIQDQLIDQSLIEPLAGALGLISDWLLTTNTNHFNMRTQRVKEQLSLKMLSLIRSNILKFINKLDALHVVNYNGLLSSIEIGTQNHTIIITRTNMGFLVELQEPDKSAMNRKKPGPAKFSLLHESTLKAFTQGSSTRMQSLILEFNSSLAI*",
+    "ZEBOVgp7": "MATQHTQYPDARLSSPIVLDQCDLVTRACGLYSSYSLNPQLRNCKLPKHIYRLKYDVTVTKFLSDVPVATLPIDFIVPILLKALSGNGFCPVEPRCQQFLDEIIKYTMQDALFLKYYLKNVGAQEDCVDDHFQEKILSSIQGNEFLHQMFFWYDLAILTRRGRLNRGNSRSTWFVHDDLIDILGYGDYVFWKIPISLLPLNTQGIPHAAMDWYQTSVFKEAVQGHTHIVSVSTADVLIMCKDLITCRFNTTLISKIAEVEDPVCSDYPNFKIVSMLYQSGDYLLSILGSDGYKIIKFLEPLCLAKIQLCSKYTERKGRFLTQMHLAVNHTLEEITEIRALKPSQAHKIREFHRTLIRLEMTPQQLCELFSIQKHWGHPVLHSETAIQKVKKHATVLKALRPIVIFETYCVFKYSIAKHYFDSQGSWYSVTSDRNLTPGLNSYIKRNQFPPLPMIKELLWEFYHLDHPPLFSTKIISDLSIFIKDRATAVERTCWDAVFEPNVLGYNPPHKFSTKRVPEQFLEQENFSIENVLSYAQKLEYLLPQYRNFSFSLKEKELNVGRTFGKLPYPTRNVQTLCEALLADGLAKAFPSNMMVVTEREQKESLLHQASWHHTSDDFGEHATVRGSSFVTDLEKYNLAFRYEFTAPFIEYCNRCYGVKNVFNWMHYTIPQCYMHVSDYYNPPHNLTLENRNNPPEGPSSYRGHMGGIEGLQQKLWTSISCAQISLVEIKTGFKLRSAVMGDNQCITVLSVFPLETDADEQEQSAEDNAARVAASLAKVTSACGIFLKPDETFVHSGFIYFGKKQYLNGVQLPQSLKTATRMAPLSDAIFDDLQGTLASIGTAFERSISETRHIFPCRITAAFHTFFSVRILQYHHLGFNKGFDLGQLTLGKPLDFGTISLALAVPQVLGGLSFLNPEKCFYRNLGDPVTSGLFQLKTYLRMIEMDDLFLPLIAKNPGNCTAIDFVLNPSGLNVPGSQDLTSFLRQIVRRTITLSAKNKLINTLFHASADFEDEMVCKWLLSSTPVMSRFAADIFSRTPSGKRLQILGYLEGTRTLLASKIINNNTETPVLDRLRKITLQRWSLWFSYLDHCDNILAEALTQITCTVDLAQILREYSWAHILEGRPLIGATLPCMIEQFKVVWLKPYEQCPQCSNAKQPGGKPFVSVAVKKHIVSAWPNASRISWTIGDGIPYIGSRTEDKIGQPAIKPKCPSAALREAIELASRLTWVTQGSSNSDLLIKPFLEARVNLSVQEILQMTPSHYSGNIVHRYNDQYSPHSFMANRMSNSATRLIVSTNTLGEFSGGGQSARDSNIIFQNVINYAVALFDIKFRNTEATDIQYNRAHLHLTKCCTREVPAQYLTYTSTLDLDLTRYRENELIYDNNPLKGGLNCNISFDNPFFQGKQLNIIEDDLIRLPHLSGWELAKTIMQSIISDSNNSSTDPISSGETRSFTTHFLTYPKIGLLYSFGAFVSYYLGNTILRTKKLTLDNFLYYLTTQIHNLPHRSLRILKPTFKHASVMSRLMSIDPHFSIYIGGAAGDRGLSDAARLFLRTSISSFLTFVKEWIINRGTIVPLWIVYPLEGQNPTPVNNFLHQIVELLVHDSSRHQAFKTTINDHVHPHDNLVYTCKSTASNFFHASLAYWRSRHRNSNRKDLTRNSSTGSSTNNSDGHIKRSQEQTTRDPHDGTERSLVLQMSHEIKRTTIPQENTHQGPSFQSFLSDSACGTANPKLNFDRSRHNVKSQDHNSASKREGHQIISHRLVLPFFTLSQGTRQLTSSNESQTQDEISKYLRQLRSVIDTTVYCRFTGIVSSMHYKLDEVLWEIENFKSAVTLAEGEGAGALLLIQKYQVKTLFFNTLATESSIESEIVSGMTTPRMLLPVMSKFHNDQIEIILNNSASQITDITNPTWFKDQRARLPRQVEVITMDAETTENINRSKLYEAVHKLILHHVDPSVLKAVVLKVFLSDTEGMLWLNDNLAPFFATGYLIKPITSSARSSEWYLCLTNFLSTTRKMPHQNHLSCKQVILTALQLQIQRSPYWLSHLTQYADCDLHLSYIRLGFPSLEKVLYHRYNLVDSKRGPLVSVTQHLAHLRAEIRELTNDYNQQRQSRTQTYHFIRTAKGRITKLVNDYLKFFLIVQALKHNGTWQAEFKKLPELISVCNRFYHIRDCNCEERFLVQTLYLHRMQDSEVKLIERLTGLLSLFPDGLYRFD*"
+  }
+}
